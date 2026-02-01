@@ -29,7 +29,7 @@ web applications using modern technologies.
     Get In Touch
     </a>
 
-    <a href="" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
+    <a href="https://drive.google.com/file/d/1qEx5xDQOFq-4-ILtVJeudA3JZ4SlYosR/view?usp=sharing" className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
     {" "}
    Download CV
     </a>
